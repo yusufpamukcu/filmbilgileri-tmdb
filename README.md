@@ -20,7 +20,7 @@ Araçları yer almaktadır.
 ### kaydırma işlemi detayı
 - TMDB Apinin sayfalama özelliği kullnılmıştır her sayfa alta indirildiğinde sayfa değişkeni +1 artmaktadır bu sayede sonsuz kaydırma olanağı sunulmuştur.
 
-[source,java]
+
 ----
 
         private void setupOnScrollListener() {
