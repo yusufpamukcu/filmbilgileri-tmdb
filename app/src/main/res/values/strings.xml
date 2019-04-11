@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Film Bilgileri</string>
+    <string name="popular">Popüler</string>
+    <string name="top_rated">TMDB Top</string>
+    <string name="upcoming">Yakında</string>
+    <string name="nowplay">Vizyondakiler</string>
+</resources>
