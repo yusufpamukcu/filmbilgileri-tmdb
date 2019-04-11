@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
                     getMovies(currentPage,newText);
                     return true;
                 }
-                return false;
+                return true;
 
             }
         });
