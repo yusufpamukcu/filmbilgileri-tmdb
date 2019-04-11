@@ -1,7 +1,5 @@
-# ImapMovies
-This app is a product of my Movies App tutorial which can be found here: http://imakeanapp.com/make-a-movies-app-using-tmdb-api-part-1-introduction/
+# Film Bilgileri - themoviedb api ile "Popüler" - "TMDB Top" - "Yakında" - "Vizyondakiler" ve Esnek arama çubuğu yer alan uygulamadır.
 
-## What will you learn?
+
+## Kullanılan Teknolojiler
 * Using Retrofit for networking
-* AppBarLayout
-* CoordinatorLayout
