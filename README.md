@@ -1,6 +1,15 @@
 # Film Bilgileri 
-- themoviedb api ile "Popüler" - "TMDB Top" - "Yakında" - "Vizyondakiler" ve Esnek arama çubuğu yer alan uygulamadır.
+## themoviedb api kullanılarak
+- "Popüler" 
+- "TMDB Top" 
+- "Yakında" 
+- "Vizyondakiler"
+- "Arama" 
+Araçları yer almaktadır.
 
 
 ## Kullanılan Teknolojiler
-* Using Retrofit for networking
+- TMDb API – Projenin ana amacının işleyişi için TMDB Apiden destek alındı.
+- Retrofit – REST istemcisi kullanılarak api ile kesintisiz konuşmayı sağladım.
+- Gson – Json -> JAVA -> Json dönüşümü için kullanıldı.
+- Glide – Resimlerin yüklenmesi ve akan sayfa için ram sorununu düşünmemek için kullanıldı.
