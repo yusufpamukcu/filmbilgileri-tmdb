@@ -1,4 +1,4 @@
-package com.yusuf.filmbilgileri;
+package com.yusuf.filmbilgileri.Adapter;
 
 
 import android.support.v7.widget.RecyclerView;
@@ -11,6 +11,10 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
+import com.yusuf.filmbilgileri.Callback.OnMoviesClickCallback;
+import com.yusuf.filmbilgileri.View.Genre;
+import com.yusuf.filmbilgileri.View.Movie;
+import com.yusuf.filmbilgileri.R;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,5 +1,7 @@
-package com.yusuf.filmbilgileri;
+package com.yusuf.filmbilgileri.Callback;
 
+
+import com.yusuf.filmbilgileri.View.Movie;
 
 import java.util.List;
 

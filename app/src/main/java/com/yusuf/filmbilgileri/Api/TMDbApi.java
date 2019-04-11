@@ -1,5 +1,9 @@
-package com.yusuf.filmbilgileri;
+package com.yusuf.filmbilgileri.Api;
 
+
+import com.yusuf.filmbilgileri.View.Movie;
+import com.yusuf.filmbilgileri.Response.GenresResponse;
+import com.yusuf.filmbilgileri.Response.MoviesResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

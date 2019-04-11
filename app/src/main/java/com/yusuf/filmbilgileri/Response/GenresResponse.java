@@ -1,8 +1,9 @@
-package com.yusuf.filmbilgileri;
+package com.yusuf.filmbilgileri.Response;
 
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
+import com.yusuf.filmbilgileri.View.Genre;
 
 import java.util.List;
 

@@ -1,5 +1,12 @@
-package com.yusuf.filmbilgileri;
+package com.yusuf.filmbilgileri.Api;
 
+
+import com.yusuf.filmbilgileri.Callback.OnGetGenresCallback;
+import com.yusuf.filmbilgileri.Callback.OnGetMovieCallback;
+import com.yusuf.filmbilgileri.Callback.OnGetMoviesCallback;
+import com.yusuf.filmbilgileri.Response.GenresResponse;
+import com.yusuf.filmbilgileri.Response.MoviesResponse;
+import com.yusuf.filmbilgileri.View.Movie;
 
 import retrofit2.Call;
 import retrofit2.Callback;

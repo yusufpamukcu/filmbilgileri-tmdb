@@ -1,4 +1,4 @@
-package com.yusuf.filmbilgileri;
+package com.yusuf.filmbilgileri.View;
 
 
 import com.google.gson.annotations.Expose;

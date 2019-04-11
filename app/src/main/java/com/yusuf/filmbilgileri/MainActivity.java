@@ -12,6 +12,14 @@ import android.view.MenuItem;
 import android.widget.PopupMenu;
 import android.widget.SearchView;
 
+import com.yusuf.filmbilgileri.Adapter.MoviesAdapter;
+import com.yusuf.filmbilgileri.Api.MoviesRepository;
+import com.yusuf.filmbilgileri.Callback.OnGetGenresCallback;
+import com.yusuf.filmbilgileri.Callback.OnGetMoviesCallback;
+import com.yusuf.filmbilgileri.Callback.OnMoviesClickCallback;
+import com.yusuf.filmbilgileri.View.Genre;
+import com.yusuf.filmbilgileri.View.Movie;
+
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
