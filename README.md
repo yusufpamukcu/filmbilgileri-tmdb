@@ -30,7 +30,6 @@ private void setupOnScrollListener() {
                 int totalItemCount = manager.getItemCount();
                 int visibleItemCount = manager.getChildCount();
                 int firstVisibleItem = manager.findFirstVisibleItemPosition();
-
                 if (firstVisibleItem + visibleItemCount >= totalItemCount / 2) {
                     if (!isFetchingMovies) {
                         getMovies(currentPage + 1,"");
@@ -41,6 +40,7 @@ private void setupOnScrollListener() {
     }
 
 ----
+
 if (firstVisibleItem + visibleItemCount >= totalItemCount / 2)
 if yapısının sağlanması için kullanıcının listede yarıyı geçmiş olması beklenir bu koşul sağlandığında "True" döner ve sayfa değişkeni değişim için alt satırdaki kod çalışır.
 getMovies(currentPage + 1,""); kodu ile sayfa değişkeni +1 artarak devam eder.
