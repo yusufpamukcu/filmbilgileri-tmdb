@@ -46,3 +46,5 @@ Araçları yer almaktadır.
 - if (firstVisibleItem + visibleItemCount >= totalItemCount / 2)
 - if yapısının sağlanması için kullanıcının listede yarıyı geçmiş olması beklenir bu koşul sağlandığında "True" döner ve sayfa değişkeni değişim için alt satırdaki kod çalışır.
 - getMovies(currentPage + 1,""); kodu ile sayfa değişkeni +1 artarak devam eder.
+
+### Recyclerview - Cardview Tasarım Araçları kullanıldı.
