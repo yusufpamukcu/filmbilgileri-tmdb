@@ -48,3 +48,7 @@ Araçları yer almaktadır.
 - getMovies(currentPage + 1,""); kodu ile sayfa değişkeni +1 artarak devam eder.
 
 ### Recyclerview - Cardview Tasarım Araçları kullanıldı.
+
+## Eklenebilecek Detaylar
+- film detay sayfasında kullanıcı yorumu eklenerek daha işlevsel bir yapı sunulabilir.
+- kullanıcının favori film seçmesi sağlanarak bu film kategorilerinden kullanıcıya film önerisi sunulabilir.
