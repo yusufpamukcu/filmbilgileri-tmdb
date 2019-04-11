@@ -1,4 +1,5 @@
-# Film Bilgileri - themoviedb api ile "Popüler" - "TMDB Top" - "Yakında" - "Vizyondakiler" ve Esnek arama çubuğu yer alan uygulamadır.
+# Film Bilgileri 
+- themoviedb api ile "Popüler" - "TMDB Top" - "Yakında" - "Vizyondakiler" ve Esnek arama çubuğu yer alan uygulamadır.
 
 
 ## Kullanılan Teknolojiler
