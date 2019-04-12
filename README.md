@@ -52,3 +52,5 @@ Araçları yer almaktadır.
 ## Eklenebilecek Detaylar
 - film detay sayfasında kullanıcı yorumu eklenerek daha işlevsel bir yapı sunulabilir.
 - kullanıcının favori film seçmesi sağlanarak bu film kategorilerinden kullanıcıya film önerisi sunulabilir.
+- uygulama içerisinden fragman izleme eklenebilir.
+- TMDB'nin sunmuş olduğu get/movie/{movie_id}/videos metodu kullanılabilir.
