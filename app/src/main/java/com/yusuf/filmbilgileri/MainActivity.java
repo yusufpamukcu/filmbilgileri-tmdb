@@ -105,9 +105,7 @@ public class MainActivity extends AppCompatActivity {
         sortMenu.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {
             @Override
             public boolean onMenuItemClick(MenuItem item) {
-                /*
-                 * Every time we sort, we need to go back to page 1
-                 */
+                
                 currentPage = 1;
 
                 switch (item.getItemId()) {
