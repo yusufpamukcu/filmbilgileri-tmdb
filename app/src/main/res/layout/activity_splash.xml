@@ -6,5 +6,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/arkaplan"
     tools:context=".SplashActivity">
+    
 
 </android.support.constraint.ConstraintLayout>
